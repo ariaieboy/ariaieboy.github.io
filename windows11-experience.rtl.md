@@ -16,7 +16,9 @@
   
 در تاریخ 1400/04/07 بیلد 22000.51 دانلود و نصب شد. باگ هایی که برطرف شده باشه یا ویژگی هایی که روی این نسخه اضافه شده باشه را داخل پرانتز شماره بیلدش را میزنم.
 
- تغییرات ورژن جدید میتونید اینجا بخونید : [22000.65](https://blogs.windows.com/windows-insider/2021/07/08/announcing-windows-11-insider-preview-build-22000-65/)
+ تغییرات ورژن جدید میتونید اینجا بخونید :
+  [22000.51](https://blogs.windows.com/windows-insider/2021/06/28/announcing-the-first-insider-preview-for-windows-11/)
+  [22000.65](https://blogs.windows.com/windows-insider/2021/07/08/announcing-windows-11-insider-preview-build-22000-65/)
   
 ### ویژگی های مثبت
 
